@@ -31,8 +31,6 @@ navbar:
     menu:
         主页: /
         文章: /archives
-        分类: /categories
-        标签: /tags
         关于: /2020/04/08/first/
         GitHub: https://github.com/lixworth
     # Navigation bar links to be shown on the right
