@@ -79,7 +79,7 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
     # Name of the comment plugin
-    type: false
+    type:
     app_id: xxxxxxxx        # (required) LeanCloud application id
     app_key: xxxxxxxx       # (required) LeanCloud application key
     notify: false           # (optional) receive email notification
