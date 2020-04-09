@@ -164,7 +164,7 @@ widgets:
         # Links to be shown in the links widget
         links:
             星云C馆: 'https://www.m78.co/'
-            Red Neno: 'https://redneno.me/'
+            霓红的博客: 'https://redneno.me/'
     -
         # Widget name
         type: category

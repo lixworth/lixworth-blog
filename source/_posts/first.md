@@ -6,7 +6,7 @@ tags:
     - 过去
     - 目标
     - 日常
-thumbnail: https://lixworth-1251759739.cos.ap-beijing.myqcloud.com/post/first.jpg
+thumbnail: https://lixworth-blog.now.sh/images/post/first.jpg
 top: true
 ---
 我这次又打算写blog了，说起上次做自己的博客，大概还是在小学时期，使用的还是typecho，后来因为传统艺能咕咕咕了。如今希望可以坚持一段时间吧
