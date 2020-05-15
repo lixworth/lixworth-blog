@@ -30,8 +30,6 @@ navbar:
     # Navigation bar menu links
     menu:
         主页: /
-        文章: /archives
-        关于: /2020/04/08/first/
         GitHub: https://github.com/lixworth
     # Navigation bar links to be shown on the right
     links:
@@ -122,7 +120,7 @@ widgets:
         # Widget name
         type: profile
         # Where should the widget be placed, left or right
-        position: left
+        position: right
         # Author name to be shown in the profile widget
         author: LixWorth
         # Title of the author to be shown in the profile widget
@@ -155,36 +153,37 @@ widgets:
         # Widget name
         type: toc
         # Where should the widget be placed, left or right
-        position: left
+        position: right
     -
         # Widget name
         type: links
         # Where should the widget be placed, left or right
-        position: left
+        position: right
         # Links to be shown in the links widget
         links:
             星云C馆: 'https://www.m78.co/'
             霓红的博客: 'https://redneno.me/'
-    -
-        # Widget name
-        type: category
-        # Where should the widget be placed, left or right
-        position: left
-    -
-        # Widget name
-        type: recent_posts
-        # Where should the widget be placed, left or right
-        position: right
-    -
-        # Widget name
-        type: archive
-        # Where should the widget be placed, left or right
-        position: right
-    -
-        # Widget name
-        type: tag
-        # Where should the widget be placed, left or right
-        position: right
+            Bugdhdj的狗窝: 'https://nil.dhdj.io/'
+#    -
+#        # Widget name
+#        type: category
+#        # Where should the widget be placed, left or right
+#        position: left
+#    -
+#        # Widget name
+#        type: recent_posts
+#        # Where should the widget be placed, left or right
+#        position: right
+#    -
+#        # Widget name
+#        type: archive
+#        # Where should the widget be placed, left or right
+#        position: right
+#    -
+#        # Widget name
+#        type: tag
+#        # Where should the widget be placed, left or right
+#        position: right
 # Other plugin settings
 plugins:
     # Enable page animations
